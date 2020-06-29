@@ -1,5 +1,7 @@
 {
   "name": "po-sync-getting-started",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
